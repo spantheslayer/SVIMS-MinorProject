@@ -1,18 +1,24 @@
 {
-  "name": "supriyo-pritam",
+  "name": "svims-minor-project",
   "version": "1.0.0",
-  "description": "SVIMS-Minor Project",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index,js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "supriyo pritam",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spantheslayer/SVIMS-MinorProject.git"
+  },
+  "keywords": [],
+  "author": "supriyo-pritam",
   "license": "ISC",
-  "dependencies": {
-    "bcrypt": "^5.0.0"
+  "bugs": {
+    "url": "https://github.com/spantheslayer/SVIMS-MinorProject/issues"
   },
+  "homepage": "https://github.com/spantheslayer/SVIMS-MinorProject#readme",
   "devDependencies": {
-    "bcrypt": "^5.0.0"
+    "@types/node": "^14.11.8",
+    "typescript": "^4.0.3"
   }
 }
